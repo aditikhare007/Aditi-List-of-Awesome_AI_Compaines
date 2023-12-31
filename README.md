@@ -15,7 +15,30 @@
 
 <a href="https://github.com/aditikhare007/Aditi List of Awesome AI Compaines" class="button icon search"> ** Aditi Open-Source AI Libraries Portfolio** </a> 
 
-## Thank you AI community for visiting my repository - Stay tuned for awesome AI Research Learning Resources ##
+## 1. Hugging Face ##
+
+https://huggingface.co/
+
+## 2. Landing AI ## 
+
+https://landing.ai/
+
+## 3. Humane AI ##
+
+https://hu.ma.ne/aipin
+
+## 4. Pandas AI ##
+
+https://github.com/gventuri/pandas-ai
+
+## 5. Google Deep Mind ##
+
+https://deepmind.google/
+
+## 6. 
+
+
+## Thank you AI community for visiting my repository - Stay tuned for Aditi's List of Awesome AI Compaines ##
 If you find the repository useful please give it a star - Thank you for visting my repository - Happy Learning !!
  
 
